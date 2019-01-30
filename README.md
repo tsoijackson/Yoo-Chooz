@@ -32,5 +32,5 @@ Yoo-Chooz will then search for the business you pasted in and grab data about th
 A list of businesses will be created as you add in more urls. Then click the Chooz button to randomly select
 ![Image of Step 3](https://github.com/tsoijackson/Yoo-Chooz/blob/master/images/step%203.png) .    
 
-The selected restuarant will show up at the top of the website.
+The randomly selected restaurant will show up at the top of the website!
 ![Image of Step 4](https://github.com/tsoijackson/Yoo-Chooz/blob/master/images/step%204.png) .    
