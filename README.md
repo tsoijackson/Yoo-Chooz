@@ -17,3 +17,20 @@ Technology Stack
 * Google Map API
 * React
 * MongoDB Stitch
+
+
+How to Use Yoo-Chooz
+--------------------
+
+Visit [Yelp](https://www.yelp.com) and copy multiple business urls that you want to choose from.
+![Image of Step 1](https://github.com/tsoijackson/Yoo-Chooz/blob/master/images/step%201.png) .    
+
+Paste the Yelp url into the search bar and press Enter.
+![Image of Step 2](https://github.com/tsoijackson/Yoo-Chooz/blob/master/images/step%202.png) .    
+
+Yoo-Chooz will then search for the business you pasted in and grab data about that place.
+A list of businesses will be created as you add in more urls. Then click the Chooz button to randomly select
+![Image of Step 3](https://github.com/tsoijackson/Yoo-Chooz/blob/master/images/step%203.png) .    
+
+The selected restuarant will show up at the top of the website.
+![Image of Step 4](https://github.com/tsoijackson/Yoo-Chooz/blob/master/images/step%204.png) .    
