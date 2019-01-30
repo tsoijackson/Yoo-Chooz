@@ -29,7 +29,7 @@ Paste the Yelp url into the search bar and press Enter.
 ![Image of Step 2](https://github.com/tsoijackson/Yoo-Chooz/blob/master/images/step%202.png) .    
 
 Yoo-Chooz will then search for the business you pasted in and grab data about that place.
-A list of businesses will be created as you add in more urls. Then click the Chooz button to randomly select
+A list of businesses will be created as you add in more urls. Then click the Chooz button to randomly select a place.
 ![Image of Step 3](https://github.com/tsoijackson/Yoo-Chooz/blob/master/images/step%203.png) .    
 
 The randomly selected restaurant will show up at the top of the website!
